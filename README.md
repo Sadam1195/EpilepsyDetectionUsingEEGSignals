@@ -1,2 +1,2 @@
 # EpilepsyDetectionUsingEEGSignals
-Applying Machine Learning Techniques To Detect Epilepsy Using EEG Signals
+A Deep Learning Based Approach to Detect Epilepsy Using EEG Signals
